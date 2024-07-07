@@ -1,0 +1,16 @@
+{
+  "name": "opml-generator",
+  "version": "1.0.0",
+  "description": "Generates OPML file from URLs containing RSS or Atom feeds",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "xml2js": "^0.4.23",
+    "fs": "0.0.1-security"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
