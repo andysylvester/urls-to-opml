@@ -1,6 +1,10 @@
 # urls-to-opml
 Convert a list of URLs in a text file to an OPML subscription list using code from ChatPGT
 
+## Required applications
+
+This app requires that Node.js and NPM are installed on the computer running the app.
+
 ## Setup instructions
 Download zip file of this repo and unzip into a directory
 
