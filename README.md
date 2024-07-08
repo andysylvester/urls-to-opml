@@ -28,7 +28,7 @@ When the app has completed, the cursor will return to the command line. The outp
 
 ## References
 
-[AndySylvester.com] (https://andysylvester.com/2024/07/08/using-chatgpt-to-convert-a-list-of-feed-urls-to-opml/) = weblog post about this app
+[Andy Sylvester](https://andysylvester.com/2024/07/08/using-chatgpt-to-convert-a-list-of-feed-urls-to-opml/) - weblog post about this app
 
 
 
