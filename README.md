@@ -26,4 +26,9 @@ The app will run until all feed URLs have been read and processed. For a file of
 
 When the app has completed, the cursor will return to the command line. The output file will be named feeds.opml.
 
+## References
+
+[https://andysylvester.com/2024/07/08/using-chatgpt-to-convert-a-list-of-feed-urls-to-opml/ AndySylvester.com] = weblog post about this app
+
+
 
